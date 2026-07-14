@@ -1,0 +1,9 @@
+[build]
+  command = "cd artifacts/api-server && node build-netlify.mjs"
+  functions = "artifacts/api-server/netlify-dist"
+  publish = "artifacts/api-server/public"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
