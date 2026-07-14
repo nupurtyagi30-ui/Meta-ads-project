@@ -1,0 +1,379 @@
+Build a premium marketing portfolio project called:
+
+"Meta Ads Growth Lab: Full-Funnel Campaign Strategy for a D2C Beauty Brand"
+
+IMPORTANT:
+This project must look like a real marketing strategy presentation prepared by a Marketing Executive applying to Swiggy, Nykaa, Zepto, Myntra, L'Oréal, HUL, and Netflix.
+
+The design should resemble a combination of:
+- Meta Business Suite
+- Deloitte consulting decks
+- Modern D2C marketing dashboards
+
+=================================================
+PROJECT CONCEPT
+=================================================
+
+Brand Name:
+Lumina Beauty
+
+Product:
+SPF 50 Daily Defense Sunscreen
+
+Industry:
+Beauty & Personal Care
+
+Campaign Duration:
+30 Days
+
+Budget:
+₹1,00,000
+
+Goal:
+Drive online purchases and improve ROAS through Meta Ads.
+
+=================================================
+PORTFOLIO OWNER
+=================================================
+
+Created By:
+Nupur Tyagi
+
+Marketing Professional
+Influencer Marketing | Creator Partnerships | Meta Ads | Marketing Analytics
+
+Display this branding professionally throughout the project.
+
+=================================================
+PROJECT STRUCTURE
+=================================================
+
+PAGE 1:
+EXECUTIVE OVERVIEW
+
+Show:
+
+Campaign Goal
+
+Business Challenge
+
+Target Audience
+
+Budget Allocation
+
+Expected Outcomes
+
+Use a consulting-style summary section.
+
+=================================================
+PAGE 2:
+CUSTOMER RESEARCH
+=================================================
+
+Create audience personas:
+
+Persona 1:
+College Student
+
+Age:
+20-24
+
+Pain Point:
+Affordable skincare
+
+Persona 2:
+Working Professional
+
+Age:
+25-35
+
+Pain Point:
+Daily sun protection and convenience
+
+Persona 3:
+Beauty Enthusiast
+
+Age:
+22-35
+
+Pain Point:
+Skin health and premium products
+
+Include:
+
+Demographics
+
+Interests
+
+Behavioral Traits
+
+Purchase Motivation
+
+=================================================
+PAGE 3:
+FULL META ADS FUNNEL
+=================================================
+
+Display:
+
+TOFU
+Awareness Campaign
+
+Objective:
+Video Views
+
+Creative:
+UGC Influencer Reel
+
+-------------------------------------------------
+
+MOFU
+Consideration Campaign
+
+Objective:
+Traffic
+
+Creative:
+Product Demonstration
+
+-------------------------------------------------
+
+BOFU
+Conversion Campaign
+
+Objective:
+Purchases
+
+Creative:
+Customer Testimonials
+
+Create beautiful funnel visualizations.
+
+=================================================
+PAGE 4:
+MEDIA PLANNING DASHBOARD
+=================================================
+
+Budget Allocation
+
+Awareness:
+₹40,000
+
+Consideration:
+₹30,000
+
+Conversion:
+₹30,000
+
+Show:
+
+Reach
+
+Impressions
+
+CPM
+
+CTR
+
+CPC
+
+CPA
+
+ROAS
+
+=================================================
+PAGE 5:
+CREATIVE STRATEGY
+=================================================
+
+Create mock Meta ads.
+
+Ad Creative 1:
+Influencer UGC
+
+Headline:
+The sunscreen I actually use every day.
+
+-------------------------------------------------
+
+Ad Creative 2:
+Product Demo
+
+Headline:
+SPF 50 protection without white cast.
+
+-------------------------------------------------
+
+Ad Creative 3:
+Social Proof
+
+Headline:
+Trusted by 50,000+ skincare lovers.
+
+Use premium royalty-free beauty imagery.
+
+=================================================
+PAGE 6:
+A/B TESTING LAB
+=================================================
+
+Compare:
+
+Creative A
+
+Creative B
+
+Show:
+
+CTR
+
+CPC
+
+CPA
+
+ROAS
+
+Highlight winner.
+
+Explain why it won.
+
+=================================================
+PAGE 7:
+PERFORMANCE DASHBOARD
+=================================================
+
+Show:
+
+Reach:
+450,000
+
+Impressions:
+1,200,000
+
+CTR:
+2.8%
+
+CPC:
+₹7
+
+CPA:
+₹185
+
+Purchases:
+540
+
+ROAS:
+4.2
+
+Visualize with:
+
+Charts
+
+Performance cards
+
+Trend graphs
+
+=================================================
+PAGE 8:
+MARKETING INSIGHTS
+=================================================
+
+Insight 1:
+UGC creatives generated higher engagement than branded creatives.
+
+Insight 2:
+Retargeting audiences delivered the strongest ROAS.
+
+Insight 3:
+Women aged 25-34 generated the highest purchase volume.
+
+Insight 4:
+Mobile placements outperformed desktop.
+
+=================================================
+PAGE 9:
+OPTIMIZATION RECOMMENDATIONS
+=================================================
+
+Increase retargeting budget.
+
+Expand lookalike audiences.
+
+Launch creator-led ad creatives.
+
+Improve landing page speed.
+
+Scale winning audiences.
+
+=================================================
+PAGE 10:
+WHY THIS PROJECT MATTERS
+=================================================
+
+This section should explain:
+
+Skills Demonstrated:
+
+Meta Ads
+
+Campaign Planning
+
+Audience Targeting
+
+Creative Strategy
+
+Performance Marketing
+
+Media Buying
+
+Conversion Optimization
+
+Marketing Analytics
+
+Business Storytelling
+
+=================================================
+PORTFOLIO DISCLAIMER
+=================================================
+
+Display:
+
+Portfolio Project Created by Nupur Tyagi
+
+This project uses simulated campaign data for educational and professional portfolio purposes.
+
+=================================================
+DESIGN REQUIREMENTS
+=================================================
+
+Make this look better than a certification project.
+
+The project should feel like a campaign strategy that would be presented to a CMO.
+
+Use:
+
+Premium typography
+
+White background
+
+Professional spacing
+
+Modern KPI cards
+
+Consulting-style layouts
+
+Interactive dashboards
+
+Export to PDF option
+
+Download Campaign Report option
+
+Responsive design
+
+=================================================
+FINAL GOAL
+=================================================
+
+When a recruiter opens this project, they should think:
+
+"This candidate understands audience research, campaign strategy, Meta Ads structure, creative testing, performance metrics, and business impact."

@@ -1,0 +1,209 @@
+Perform a professional portfolio upgrade on this Meta Ads project.
+
+IMPORTANT:
+Do not change the overall project concept, data, or case study structure.
+
+Only improve branding, recruiter appeal, portfolio presentation, and executive-level polish.
+
+=================================================
+PERSONAL BRANDING CHANGES
+=================================================
+
+Replace:
+
+"GROWTH MARKETER"
+
+with
+
+"MARKETING PROFESSIONAL"
+
+Display:
+
+Nupur Tyagi
+Marketing Professional
+
+consistently throughout the project.
+
+=================================================
+HEADER IMPROVEMENTS
+=================================================
+
+Remove the orange "Hire Nupur" button.
+
+Replace it with:
+
+"Connect on LinkedIn"
+
+and use a professional LinkedIn icon.
+
+Keep the Download Report button.
+
+=================================================
+PROJECT POSITIONING
+=================================================
+
+This should feel like a portfolio project built by a marketing professional applying for:
+
+- Swiggy
+- Nykaa
+- Zepto
+- Myntra
+- HUL
+- L'Oréal
+- Netflix
+
+Avoid freelancer or agency-style language.
+
+Make it feel like a marketing strategy presentation prepared for leadership.
+
+=================================================
+HERO SECTION IMPROVEMENTS
+=================================================
+
+Current title is good but make it more impactful:
+
+Scaling Lumina Beauty Through Full-Funnel Meta Advertising
+
+Subtitle:
+
+A performance marketing strategy designed to acquire customers, improve conversion efficiency, and maximize return on advertising spend through data-driven audience targeting and creative optimization.
+
+Add:
+
+Campaign Duration: 30 Days
+Budget: ₹1,00,000
+Objective: Purchase Growth
+
+Display these as premium KPI chips.
+
+=================================================
+ADD EXECUTIVE SUMMARY
+=================================================
+
+Create a section near the top:
+
+Executive Summary
+
+Cover:
+
+Business Challenge
+
+Marketing Objective
+
+Target Audience
+
+Campaign Strategy
+
+Expected Business Impact
+
+Use a consulting-style layout.
+
+=================================================
+ADD "WHY THIS PROJECT MATTERS"
+=================================================
+
+Create a dedicated section explaining:
+
+This project demonstrates how Meta Ads can be used to:
+
+- Build Awareness
+- Drive Consideration
+- Generate Conversions
+- Improve ROAS
+- Scale Customer Acquisition
+
+Make this recruiter-focused.
+
+=================================================
+SKILLS SECTION
+=================================================
+
+Create a premium skills section.
+
+Skills Demonstrated:
+
+Meta Ads
+
+Campaign Strategy
+
+Audience Research
+
+Media Planning
+
+Creative Testing
+
+Performance Marketing
+
+Conversion Optimization
+
+Marketing Analytics
+
+Business Storytelling
+
+Customer Acquisition
+
+Display as professional skill cards.
+
+=================================================
+ADD PROJECT TAKEAWAYS
+=================================================
+
+Create a section:
+
+Key Learnings
+
+Include:
+
+- Audience quality impacts performance more than audience size.
+- UGC creatives often outperform polished brand creatives.
+- Retargeting audiences deliver stronger conversion efficiency.
+- Creative testing is essential for campaign scalability.
+- Data-driven optimization improves campaign profitability.
+
+=================================================
+ABOUT THE PROJECT CREATOR
+=================================================
+
+Add a professional section:
+
+About the Project Creator
+
+Nupur Tyagi is a marketing professional with experience in influencer marketing, campaign execution, creator partnerships, and marketing analytics.
+
+This portfolio project was developed to demonstrate strategic thinking, audience targeting, campaign planning, and performance marketing capabilities.
+
+Make this look premium and recruiter-friendly.
+
+=================================================
+FOOTER
+=================================================
+
+Add:
+
+Portfolio Project Created by Nupur Tyagi
+
+For professional portfolio and learning purposes.
+
+Campaign data is simulated for educational use.
+
+=================================================
+VISUAL IMPROVEMENTS
+=================================================
+
+Improve spacing throughout.
+
+Make typography more premium.
+
+Ensure all sections feel like a Deloitte, EY, McKinsey, or Accenture strategy presentation.
+
+Reduce any template-like appearance.
+
+Make the project feel interview-ready and LinkedIn Featured-section ready.
+
+=================================================
+FINAL GOAL
+=================================================
+
+When a recruiter opens this project, they should immediately think:
+
+"This candidate understands Meta Ads strategy, audience targeting, campaign planning, optimization, and business impact."
