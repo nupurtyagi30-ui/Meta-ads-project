@@ -132,6 +132,15 @@ globalThis.__dirname = __bannerPath.dirname(globalThis.__filename);
     path.join(apiDir, "index.mjs"),
     'export { default } from "./_chunks/index.mjs";\n',
   );
+
+  // This project has no static frontend, but Vercel's "Other" framework
+  // preset still expects an Output Directory to exist. Give it a trivial one.
+  const publicDir = path.resolve(artifactDir, "public");
+  await mkdir(publicDir, { recursive: true });
+  await writeFile(
+    path.join(publicDir, "index.html"),
+    "<!-- API-only project, see /api -->\n",
+  );
 }
 
 buildVercel().catch((err) => {
